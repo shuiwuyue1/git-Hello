@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
